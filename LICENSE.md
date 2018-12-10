@@ -14,4 +14,4 @@ This is the same license as the official KiCad libraries: http://kicad-pcb.org/l
 
 **Warranty**
 
-The KiCad libraries are provided in the hope that they will be useful, but are provided without warranty of any kind, express or implied.
+These libraries are provided without warranty of any kind, express or implied.

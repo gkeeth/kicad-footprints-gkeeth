@@ -1,4 +1,4 @@
-(module Molex_SL_A-70543-0014_1x15_P2.54mm_Vertical (layer F.Cu) (tedit 5C0F24B2)
+(module Molex_SL_A-70543-0014_1x15_P2.54mm_Vertical (layer F.Cu) (tedit 5C0F3C16)
   (descr "Molex SL Modular Connectors, old/engineering part number: A-70543-0014 example for new part number: 70543-0014, 15 Pins (https://www.molex.com/pdm_docs/sd/705430003_sd.pdf), generated with kicad-footprint-generator")
   (tags "connector Molex SL side entry")
   (fp_text reference REF** (at 17.78 -3.74) (layer F.SilkS)

@@ -1,5 +1,5 @@
-(module Heatsink_AAVID_5073_TO-220_Vertical (layer F.Cu) (tedit 5CF1DB38)
-  (descr "Heatsink, AAVID 5073, TO-220, Vertical, http://www.wakefield-vette.com/Portals/0/resources/datasheets/287.pdf")
+(module Heatsink_AAVID_5073_TO-220_Vertical (layer F.Cu) (tedit 5CF2AE48)
+  (descr "Heatsink, AAVID 5073, TO-220, Vertical, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Low-Profile-Channel.pdf")
   (tags "heatsink aavid")
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,4 +1,4 @@
-(module SW_Rotary4x8_C&K_A402xxxxCxx (layer F.Cu) (tedit 5CCE3612)
+(module SW_Rotary4x8_C&K_A402xxxxCxx (layer F.Cu) (tedit 5D005454)
   (descr "C&K A Series 1-4 Pole Rotary Switches, part number: A402xxxxCxx, 4 Poles, 8 Positions, datasheet: https://www.ckswitches.com/media/1349/arotary.pdf, generated with kicad-footprint-generator")
   (tags "C&K Rotary switch 4PDT")
   (fp_text reference REF** (at -2.87 -3.32) (layer F.SilkS)

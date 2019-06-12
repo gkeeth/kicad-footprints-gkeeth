@@ -1,4 +1,4 @@
-(module Heatsink_AAVID_5073_TO-220_Vertical (layer F.Cu) (tedit 5CF2AE48)
+(module Heatsink_AAVID_5073_TO-220_Vertical (layer F.Cu) (tedit 5CFAFC69)
   (descr "Heatsink, AAVID 5073, TO-220, Vertical, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Low-Profile-Channel.pdf")
   (tags "heatsink aavid")
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
@@ -38,7 +38,7 @@
   (fp_line (start 8 0.25) (end -8 0.25) (layer F.CrtYd) (width 0.05))
   (fp_line (start -8 0.25) (end -8 8.63) (layer F.CrtYd) (width 0.05))
   (fp_line (start -8 8.63) (end -9.775 8.63) (layer F.CrtYd) (width 0.05))
-  (model ${KISYS3DMOD}/Heatsink_gkeeth.3dshapes/Heatsink_AAVID_5073_TO-220_Vertical.wrl
+  (model ${KICAD_CUSTOM_LIBRARY_DIR}/3dmodels/kicad-packages3D-gkeeth/Heatsink_gkeeth.3dshapes/Heatsink_AAVID_5073_TO-220_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
